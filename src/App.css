@@ -61,12 +61,14 @@ padding-bottom: 20px;
 }
 
 .counter {
-  text-align: center;
-  margin-top: 15px;
-  background-color: rgb(20, 20, 20);
-  color: whitesmoke;
-  font-size: 120%;
+  text-align: right;
+  height: 20px;
+  margin-left: 32%;
+  padding-bottom: 450px;
+  color: rgb(20, 20, 20);
+  font-size: 150%;
   font-weight: bolder;
+  position: fixed;
 }
 
 .Button-div {

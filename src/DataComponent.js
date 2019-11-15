@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import data from './Data'
+import App from './App'
 
 class DataComponent extends Component {
     constructor(props){
